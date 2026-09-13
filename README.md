@@ -9,6 +9,10 @@
 - 支持全局快捷键切换静音
 - 设置自动记忆（保存上次状态与配置）
 
+## 运行截图
+
+![运行截图](screenshots/running.png)
+
 ## 编译
 
 不需要 Visual Studio，也不需要 .NET SDK，使用系统自带的 .NET Framework 编译器即可：
